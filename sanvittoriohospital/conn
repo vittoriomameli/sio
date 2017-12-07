@@ -1,0 +1,8 @@
+// hostname
+$nomehost = "localhost";   
+// utente per la connessione a MySQL  
+$nomeuser = "username";
+// password per l'autenticazione dell'utente 
+$password = "password";
+// connessione tramite mysql_connect()
+$connessione = mysql_connect($host,$user,$pass);
