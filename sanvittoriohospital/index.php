@@ -34,7 +34,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
     <button onclick="window.location.href='access.php'" class="w3-button w3-black w3-padding-large w3-large w3-margin-top">ACCEDI</button>
   </header>
 
-
+<!--
     <div class="w3-center w3-padding-64">
       <video preload="auto" width="1350" height="700"
       loop="loop" autoplay="true" class="homepage-hero__video">
@@ -42,19 +42,19 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
       <!-- <source src="themes/mskcc/assets/video/mskcc.webm" type="video/webm" ></source> -->
       <p class="vjs-no-js"><img src=""></p>
     </video>  
-
+-->
 <!--
     <div class="w3-container w3-black w3-center w3-opacity w3-padding-64">
     <h1 class="w3-margin w3-xlarge">SANVITTORIOHOSPITAL.NET</h1>
     </div> -->
 
-<!--
+
     <img class="mySlides" src="images/imm1.jpg" style="width:100%">
     <img class="mySlides" src="images/imm2.jpg" style="width:100%">
     <img class="mySlides" src="images/imm3.jpg" style="width:100%">
     <img class="mySlides" src="images/imm4.jpeg" style="width:100%">
     <img class="mySlides" src="images/imm5.jpg" style="width:100%">
-    <img class="mySlides" src="images/slider-4.png" style="width:100%"> -->
+  
 
 
 
